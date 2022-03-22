@@ -1,0 +1,2 @@
+1- L'adressage du routeur a ete mal fait. C'est pour cela le PC a une adresse publique.
+2- Reprendre la configuration du resesau
